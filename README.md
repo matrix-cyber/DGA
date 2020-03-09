@@ -13,6 +13,15 @@ PyTorch1.3
 ├── main.py
 ├── README.md
 ```
+
+```
+软件版本
+Anaconda 3-5.2.0
+tensorflow 2.0.0
+python 3.6.5
+
+```
+
 ```
 data/：数据和相关操作，如数据预处理、dataset实现等
 models/：模型定义，一个模型对应一个文件
