@@ -1,9 +1,6 @@
 PyTorch1.3
 
 ```
-├── data/
-│   ├── dataset.py
-│   └── get_data.sh
 ├── models/
 │   ├── BasicModule.py
 │   └── ResNet34.py
